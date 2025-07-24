@@ -31,10 +31,9 @@ My goal is to design systems that scale, and I enjoy sharing what I learn from t
 ### Featured Projects
 Here are a few things I've built and shared:
 
-- [**notp**](https://github.com/kondanta/notp): A CLI tool in Go for generating one-time passwords, inspired by seminal 2FA work.
-- [**holdmybackup**](https://github.com/kondanta/holdmybackup): A practical backup utility written in Rust as an exercise in exploring data integrity and system resilience.
-- [**infra-scripts**](https://github.com/kondanta/infra-scripts): A personal collection of automation scripts for infrastructure management and daily tasks.
-
+- [**homelab**](https://github.com/kondanta/homelab): A personal home operations lab that runs on my own hardware, featuring GitOps practices and a variety of services.
+- [**emacs-config**](https://github.com/kondanta/emacs.d): My personal Emacs configuration, tailored for efficient coding and writing.
+- [**homelab-services**](https://github.com/kondanta/internal-rust-services): A collection of Rust-based services I run in my homelab, showcasing my approach to building efficient and reliable applications.
 ---
 
 ### Let's Connect
