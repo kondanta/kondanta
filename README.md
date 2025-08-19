@@ -4,7 +4,7 @@
 
 I've always been driven by a need to understand what's happening beneath the surface. That mindset naturally pulled me into infrastructure engineering, where I can focus on building the resilient, invisible layers that empower teams to move fast and safely, especially in SaaS environments.
 
-My goal is to design systems that scale, and I enjoy sharing what I learn from the field at [blog.taylandogan.info](https://blog.taylandogan.info).
+My goal is to design systems that scale, and I enjoy sharing what I learn from the field at [blog.taylan.dev](https://blog.taylan.dev).
 
 ---
 
